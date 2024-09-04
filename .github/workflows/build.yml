@@ -1,8 +1,10 @@
-name: Publish on Deno Deploy
+name: Ci
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
+  pull_request:
+    branches: [main]
 
 jobs:
   build:
@@ -26,6 +28,6 @@ jobs:
       - name: Deploy to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: project-name
+          project: steven-deleon-blog
           import-map: "./deno.json"
           entrypoint: serve.ts
