@@ -1,0 +1,20 @@
+lang: en
+
+home:
+  welcome: "Welcome 👋
+  <div style='font-size:1.25rem;margin-top:1rem; display:block; letter-spacing:initial'>
+    <p>This is my personal blog where I share writeups on tech, recipes, and parenting experiences.</p>
+  </div>
+  "
+
+menu_links: []
+extra_head: []
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: Blog
+  description: A blog for sharing tech writeups and sharing recipes
+  title: "=title"
+  image: "=image"
+  twitter: "@username"
+  lang: en
