@@ -13,7 +13,7 @@ extra_head: []
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
-  site: Blog
+  site: 👻🎃🌛
   description: A blog for sharing tech write-ups and sharing recipes
   title: "=title"
   image: "=image"
