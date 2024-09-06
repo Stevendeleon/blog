@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.vto
-title: Reading list
+title: 📚 list
 url: /reading-list/
 menu:
   visible: true
