@@ -2,8 +2,9 @@ lang: en
 
 home:
   welcome: "Welcome 👋
-  <div style='font-size:1.25rem;margin-top:1rem; display:block; letter-spacing:initial'>
-    <p>This is my personal blog where I share writeups on tech, recipes, and parenting experiences.</p>
+  <div style='font-size:1.25rem;margin-top:1rem; display:block; letter-spacing:initial; margin-bottom: 2rem'>
+    <p>This is my personal blog where I share write-ups on various topics ranging from recipes, tech, parenting and more.</p>
+    <p>Search below for anything!</p>
   </div>
   "
 
@@ -13,7 +14,7 @@ extra_head: []
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
   site: Blog
-  description: A blog for sharing tech writeups and sharing recipes
+  description: A blog for sharing tech write-ups and sharing recipes
   title: "=title"
   image: "=image"
   twitter: "@username"

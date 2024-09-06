@@ -1,5 +1,5 @@
 ---
-title: Turkeyrific Sweet Potato Treat
+title: (Recipe) - Turkeyrific Sweet Potato Treat
 url: /Turkeyrific Sweet Potato Treat/
 date: '2024-09-02'
 draft: false
@@ -9,23 +9,21 @@ tags:
 comments: {}
 ---
 
-<!-- preview img -->
-![img](/uploads/ground-turkey-sweet-potato.png)
+<!--more-->
 
+![img](/uploads/ground-turkey-sweet-potato.png)
 ### Duration
 
-| Type | Time |
-|---------|--------------------|
-| Preparation | 15-20 minutes |
-| Cooking | 50 minutes |
-| _Combined_ Total | 1 hour 5-10 minutes|
-
-
+| Type             | Time                |
+|------------------|---------------------|
+| Preparation      | 15-20 minutes       |
+| Cooking          | 50 minutes          |
+| _Combined_ Total | 1 hour 5-10 minutes |
 
 
 ## Description
 
-Craving a comforting yet nutritious meal? 
+Craving a comforting yet nutritious meal?
 
 This recipe is packed with flavor and essential nutrients, this gluten-free casserole is the perfect weeknight dinner. Enjoy tender sweet potatoes, lean ground turkey and vibrant zucchini all baked together with a touch of Parmesan cheese.
 
@@ -38,17 +36,17 @@ A delicious and satisfying dish that's healthy and delicious.
 
 ## Ingredients by Scale
 
-**1x** is the _default_ serving size yielding for about 4-5 people
+**1x** is the <span style="text-decoration: underline">_default_</span> serving size. (4-5 people)
 
-| | 1x | 2x | 3x
-|---------|--------------------|--|--|
-| Ground Turkey | 1 lb| 2 lb | 3 lb |
-| Medium-sized Sweet Potatoes | 2x | 4x | 6x |
-| Small zucchini | 2x | 4x | 6x |
-| Shredded Parmesan Cheese | 2/3 cup | 2/3 cup | 2/3 cup |
-| Garlic Powder | 1.5 tsp | 3 tsp | 4.5 tsp |
-| Olive Oil | 5 tbl-sp | 10 tbl-sp | 15 tbl-sp |
-| Salt & Pepper | to taste | -- | -- | 
+| Ingredient                  | 1x       | 2x        | 3x        |
+|-----------------------------|----------|-----------|-----------|
+| Ground Turkey               | 1 lb     | 2 lb      | 3 lb      |
+| Medium-sized Sweet Potatoes | 2x       | 4x        | 6x        |
+| Small zucchini              | 2x       | 4x        | 6x        |
+| Shredded Parmesan Cheese    | 2/3 cup  | 2/3 cup   | 2/3 cup   |
+| Garlic Powder               | 1.5 tsp  | 3 tsp     | 4.5 tsp   |
+| Olive Oil                   | 5 tbl-sp | 10 tbl-sp | 15 tbl-sp |
+| Salt & Pepper               | to taste | --        | --        |
 
 ## Instructions
 
@@ -86,12 +84,20 @@ A delicious and satisfying dish that's healthy and delicious.
     3. Bake again for another **10** minutes.
 8. Remove from oven
     1. Add in **2 tbl-sp** of Olive oil. (Combine evenly)
-    2. Sprinkle and top with shredded parmesan cheese.
+    2. Sprinkle and top with shredded Parmesan cheese.
 9. Bake again for **6-12 minutes**.
 
 <style>
   th {
     text-align: left;
-    text-decoration: underline
+    border-bottom: 1px solid var(--color-highlight);
+  }
+  
+  table tbody tr:nth-child(odd) {
+    background-color: var(--color-background);
+  }
+
+  table tbody tr:nth-child(even) {
+    background-color: var(--color-highlight);
   }
 </style>
