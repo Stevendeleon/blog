@@ -1,5 +1,5 @@
 ---
-title: (Recipe) - Chicken Caprese Craze
+title: Chicken Caprese Craze
 date: '2024-09-05'
 draft: false
 tags:
