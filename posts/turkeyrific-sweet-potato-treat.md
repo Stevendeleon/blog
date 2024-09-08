@@ -1,5 +1,5 @@
 ---
-title: (Recipe) - Turkeyrific Sweet Potato Treat
+title: Turkeyrific Sweet Potato Treat
 url: /Turkeyrific Sweet Potato Treat/
 date: '2024-09-02'
 draft: false
