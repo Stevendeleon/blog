@@ -11,10 +11,12 @@ tags:
 comments: {}
 ---
 
-CSS contains various built-in functions. Unlike programming languages, you do not have the ability to create your 
-own CSS function. 
+CSS contains various built-in functions. Let's take a closer look at how it works.
 
 <!--more-->
+
+Unlike programming languages, you do not have the ability to create your
+own CSS function.
 
 ### Basics
 

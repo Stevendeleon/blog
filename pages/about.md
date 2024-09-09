@@ -34,7 +34,7 @@ If you're interested in potentially working with me I offer freelancing services
 * Consulting and Project Scaffolding
 * Many more!
 
-For more indepth services checkout my <a href="/services"> Services </a> page.
+For more indepth services checkout my <a href="/services">**Services**</a> page.
 ### Socials
 
 <div id="socials">
