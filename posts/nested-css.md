@@ -65,8 +65,9 @@ For example:
 
 ## Codepen
 
-Here's a simple Codepen I created to showcase nesting being used: 
-* <a href="https://codepen.io/stevendeleon/pen/bGPzaYe" target="_blank">Pen</a>
+Here's a great snippet example:
+
+<iframe src="https://codepen.io/web-dot-dev/embed/RwYLRdr" id="code-pen-iframe"></iframe>
 
 ### Additional docs
 > [!note]
@@ -76,3 +77,6 @@ Here's a simple Codepen I created to showcase nesting being used:
 > 
 > ➡ [Using CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
 
+<style>
+    #code-pen-iframe { width: 100%; height: 420px; }
+</style>
