@@ -46,16 +46,6 @@ Providing expert consulting services to help you plan, strategize, and execute y
 ### Maintenance & Support
 Offering ongoing maintenance and support for your applications, ensuring they remain up-to-date, secure, and performant.
 
-### Artificial Intelligence & Machine Learning
-* #### AI Models & Algorithms
-  Designing and implementing custom AI models and algorithms to meet your specific business needs, using frameworks like TensorFlow, PyTorch, and Scikit-learn.
-* #### Natural Language Processing (NLP)
-  Enabling your applications to understand and respond to human language through NLP techniques such as sentiment analysis, text summarization, and chatbots.
-* #### Predictive Analytics
-  Leveraging machine learning to predict trends, behaviors, and outcomes, providing valuable insights for decision making.
-* #### Computer Vision
-  Integrating image and video analysis capabilities, such as object detection, facial recognition, and image classification.
-
 --- 
 For any inquiries or to discuss your project requirements, feel free to [📧 contact me](mailto:stevendeleon2892@gmail.com).
 
