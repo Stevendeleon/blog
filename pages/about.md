@@ -8,8 +8,7 @@ menu:
 ---
 ## Who am I?
 
-I am a passionate Software Engineer with a love for technology and a strong commitment to family. 
-I'm fortunate to be married and to be a father to two wonderful children with a third on the way.
+I am a passionate Software Engineer with a love for technology and a strong commitment to family.
 
 **Interests:**
 * DIY
@@ -24,18 +23,10 @@ I'm fortunate to be married and to be a father to two wonderful children with a 
 
 Drop me a line! I'm always open to chatting.
 
-If you're interested in potentially working with me I offer freelancing services.
-
-#### Services I offer
-* Web Development and Maintenance
-* Backend Development
-* Frontend Development
-* DevOps & Deployment
-* Consulting and Project Scaffolding
-* Many more!
-
+If you're interested in potentially working with me, I offer freelancing services as well. 
 For more indepth services checkout my <a href="/services">**Services**</a> page.
-### Socials
+
+---
 
 <div id="socials">
     <a href="https://www.linkedin.com/in/steve-deleon/" target="_blank">
@@ -48,12 +39,18 @@ For more indepth services checkout my <a href="/services">**Services**</a> page.
       </a>
 
     <a href="mailto:stevendeleon2892@gmail.com">
-        <span style="font-size: 1.75rem">📧</span>
+        <span style="">📧</span>
     </a>
 </div>
 
 <style>
-    #socials a {
-        text-decoration: none;
+    #socials {
+        display: flex;
+        align-content: center;
+        justify-content: space-evenly;
+        align-items: center;
+
+        a { text-decoration: none; font-size:2rem; }
+
     }
 </style>
