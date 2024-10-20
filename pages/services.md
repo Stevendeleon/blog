@@ -20,11 +20,7 @@ menu:
     background-color: var(--color-highlight);
   }
 
-@media (max-width: 496px) {
-  .navbar-links > li:nth-child(4) {
-    display: none;
-  }
-}
+
 </style>
 
 
