@@ -1,6 +1,12 @@
 [build]
   command = """
+    curl -fsSL https://deno.land/x/install/install.sh | sh -s v2.0.2 &&
+    export DENO_INSTALL=/opt/buildhome/.deno &&
+    export PATH=$DENO_INSTALL/bin:$PATH &&
     deno --version &&
     deno task build
   """
   publish = "_site"
+
+[build.environment]
+  DENO_VERSION = "2.0.2"
