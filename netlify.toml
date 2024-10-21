@@ -3,4 +3,4 @@
      publish = "_site"
 
 [build.environment]
- DENO_VERSION = "latest"
+ DENO_VERSION = "2.0.2"
