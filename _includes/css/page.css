@@ -8,6 +8,7 @@
 
 .page-title {
     font: var(--font-display);
+    font-family: var(--serif-font);
     letter-spacing: var(--font-display-spacing);
     margin: 0;
     text-wrap: balance;
