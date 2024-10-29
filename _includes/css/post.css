@@ -5,6 +5,7 @@
 .post-title {
     font: var(--font-display);
     letter-spacing: var(--font-display-spacing);
+    font-family: var(--serif-font);
     margin: 0 0 0.2em;
     text-wrap: balance;
     color: var(--color-base);
@@ -47,4 +48,10 @@
 
 .post-link {
     display: inline-block;
+}
+
+input[type="checkbox"] {
+    height: 1rem;
+    width: 1rem;
+    margin: 0 .2rem;
 }

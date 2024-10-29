@@ -1,18 +1,22 @@
 /* Lume's design system */
 @import "https://unpkg.com/@lumeland/ds@0.5.2/ds.css";
 
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 /* Custom components */
 @import "css/navbar.css";
 @import "css/page.css";
 @import "css/post-list.css";
 @import "css/post.css";
-@import "css/overrides.css";
 @import "css/comments.css";
+@import "css/overrides.css";
 
 /* Make the links black */
 :root {
     --color-link: var(--color-base);
     --color-link-hover: var(--color-dim);
+    --serif-font: "PT Serif", serif;
 }
 
 /* Page layout */
@@ -23,6 +27,14 @@ main {
 
     & > :first-child {
         margin-top: 0;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--serif-font);
+
+    & > a {
+        font-family: var(--serif-font);
     }
 }
 
