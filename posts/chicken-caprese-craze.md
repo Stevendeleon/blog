@@ -8,7 +8,7 @@ tags:
   - Italian
 comments: {}
 ---
-![img](/uploads/recipes/chicken-caprese-craze.png)
+![img](/uploads/recipes/chicken-caprese.png)
 <!--more-->
 
 ### Duration
