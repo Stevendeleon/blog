@@ -34,8 +34,8 @@ A perfect meal to warm you up! Goes great with Grilled cheese!
 
 |                           | 1x     | 2x     | 3x     |
 |---------------------------|--------|--------|--------|
-| Yellow Onion              | 1    | 2     | 3     |
-| Whole Tomatoes (Can) 28oz | 1     | 2     | 3     |
+| Yellow Onion              | 1      | 2      | 3      |
+| Whole Tomatoes (Can) 28oz | 1      | 2      | 3      |
 | Tomato Paste              | -      | -      | -      |
 | Vegetable Broth           | 2 cups | 4 cups | 6 cups |
 | Olive Oil                 | -      | -      | -      |

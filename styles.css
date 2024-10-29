@@ -2,7 +2,7 @@
 @import "https://unpkg.com/@lumeland/ds@0.5.2/ds.css";
 
 /* Google fonts */
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 /* Custom components */
 @import "css/navbar.css";
@@ -14,31 +14,31 @@
 
 /* Make the links black */
 :root {
-    --color-link: var(--color-base);
-    --color-link-hover: var(--color-dim);
-    --serif-font: "PT Serif", serif;
+  --color-link: var(--color-base);
+  --color-link-hover: var(--color-dim);
+  --serif-font: "PT Serif", serif;
 }
 
 /* Page layout */
 main {
-    padding: var(--row-gap-medium) 0;
-    max-width: min(100% - 15vw, 45em);
-    margin: 0 auto;
+  padding: var(--row-gap-medium) 0;
+  max-width: min(100% - 15vw, 45em);
+  margin: 0 auto;
 
-    & > :first-child {
-        margin-top: 0;
-    }
+  & > :first-child {
+    margin-top: 0;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: var(--serif-font);
+  font-family: var(--serif-font);
 
-    & > a {
-        font-family: var(--serif-font);
-    }
+  & > a {
+    font-family: var(--serif-font);
+  }
 }
 
 /* Search tweak */
 .search {
-    margin-top: var(--row-gap-xsmall);
+  margin-top: var(--row-gap-xsmall);
 }

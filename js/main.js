@@ -1,3 +1,3 @@
 import { toggleStrikeThrough } from "./helpers.js";
 
-window.toggleStrike = toggleStrikeThrough;
+globalThis.toggleStrike = toggleStrikeThrough;

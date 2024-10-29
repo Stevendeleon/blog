@@ -1,5 +1,5 @@
 @media (max-width: 496px) {
-    .navbar-links > li:nth-child(4) {
-        display: none;
-    }
+  .navbar-links > li:nth-child(4) {
+    display: none;
+  }
 }

@@ -6,25 +6,29 @@ menu:
   visible: true
   order: -1
 ---
+
 ## Who am I?
 
-I am a passionate Software Engineer with a love for technology and a strong commitment to family.
+I am a passionate Software Engineer with a love for technology and a strong
+commitment to family.
 
 **Interests:**
-* DIY
-* Cooking
-* Reading
-* Gardening
-* Basketball
-* Technology 
-* Poker
+
+- DIY
+- Cooking
+- Reading
+- Gardening
+- Basketball
+- Technology
+- Poker
 
 ## Looking to get in touch?
 
 Drop me a line! I'm always open to chatting.
 
-If you're interested in potentially working with me, I offer freelancing services as well. 
-For more indepth services checkout my <a href="/services">**Services**</a> page.
+If you're interested in potentially working with me, I offer freelancing
+services as well. For more indepth services checkout my
+<a href="/services">**Services**</a> page.
 
 ---
 
@@ -41,6 +45,7 @@ For more indepth services checkout my <a href="/services">**Services**</a> page.
     <a href="mailto:stevendeleon2892@gmail.com">
         <span style="">📧</span>
     </a>
+
 </div>
 
 <style>
